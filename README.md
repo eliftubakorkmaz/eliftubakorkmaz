@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="github-banner.png" alt="GitHub Banner">
-</p>
 
 <h1 align="center">Hoş Geldiniz! 👋</h1>
 
