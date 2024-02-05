@@ -5,7 +5,7 @@
 <h1 align="center">Hoş Geldiniz! 👋</h1>
 
 <p align="center">
-  Ben <a href="https://github.com/eliftubakorkmaz">@eliftubakorkmaz</a>. Bu GitHub repo'su, C# .NET ve Full Stack geliştirme konularında öğrendiklerimi ve projelerimi paylaşmak için oluşturduğum bir alandır. Bu README dosyası, bu projeyi anlamak ve kullanmak için temel bilgileri sağlar.
+  Ben <a href="https://github.com/eliftubakorkmaz">@eliftubakorkmaz</a>. Bu GitHub repo'su, C# .NET ve Full Stack geliştirme konularında öğrendiklerimi ve projelerimi paylaşmak için oluşturduğum bir alandır.
 </p>
 
 <br>
@@ -14,11 +14,9 @@
 
 Bu depoda bulabileceğiniz bazı projeler:
 
-1. [Proje Adı 1](link1): Proje açıklaması ve nasıl kullanılacağı hakkında bilgi verin.
-
-2. [Proje Adı 2](link2): Proje açıklaması ve nasıl kullanılacağı hakkında bilgi verin.
-
-3. [Proje Adı 3](link3): Proje açıklaması ve nasıl kullanılacağı hakkında bilgi verin.
+1. Veterinerlik Sitesi: Bir veterinerlik kliniği için kullanılabilecek sadece HTML, CSS ve responsive kullanılarak yapılmıştır.
+2. E-Ticaret: Bu projemde Frontend ve Backend birlikte kullanılarak bir e-ticaret sitesi oluşturulmuştur. React, Nodejs ve MongoDb kullanılarak hazırlanmıştır.
+3. TuLil Ticaret: HTML, CSS ve JS kullanılarak yapılmış bir e-ticaret sitesidir.
 
 <br>
 
@@ -28,8 +26,18 @@ Bu projelerde kullanılan bazı temel teknolojiler:
 
 - C# .NET
 - ASP.NET
-- HTML, CSS, JavaScript
-- [Diğer Teknolojiler]
+- HTML, CSS, JavaScript, React.js, Angular
+- Python, Django
+  
+<br>
+
+## 🗄️ Veritabanları
+
+Bu projelerde kullanılan veritabanları:
+
+1. MySQL
+2. MongoDB
+3. PostgreSQL
 
 <br>
 
