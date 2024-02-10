@@ -14,6 +14,7 @@ Bu depoda bulabileceğiniz bazı projeler:
 1. Veterinerlik Sitesi: Bir veterinerlik kliniği için kullanılabilecek sadece HTML, CSS ve responsive kullanılarak yapılmıştır.
 2. E-Ticaret: Bu projemde Frontend ve Backend birlikte kullanılarak bir e-ticaret sitesi oluşturulmuştur. React, Nodejs ve MongoDb kullanılarak hazırlanmıştır.
 3. TuLil Ticaret: HTML, CSS ve JS kullanılarak yapılmış bir e-ticaret sitesidir.
+4. BookStoreProject: Angular, .NET ve MsSql kullanılmıştır.
 
 <br>
 
