@@ -15,7 +15,7 @@ Bu depoda bulabileceğiniz bazı projeler:
 2. E-Ticaret: Bu projemde Frontend ve Backend birlikte kullanılarak bir e-ticaret sitesi oluşturulmuştur. React, Nodejs ve MongoDb kullanılarak hazırlanmıştır.
 3. TuLil Ticaret: HTML, CSS ve JS kullanılarak yapılmış bir e-ticaret sitesidir.
 4. BookStoreProject: Angular, .NET ve MsSql kullanılmıştır.
-5. School-App-NTierArchitecture: Server tarafında çok katmanlı mimari (N-Tier Architecture) kullanılmıştır.
+5. School-App-NTierArchitecture: Server tarafında çok katmanlı mimari (N-Tier Architecture) kullanılmıştır. Client tarafında ise Angular kullanılmıştır.
 
 <br>
 
