@@ -16,6 +16,7 @@ Bu depoda bulabileceğiniz bazı projeler:
 3. TuLil Ticaret: HTML, CSS ve JS kullanılarak yapılmış bir e-ticaret sitesidir.
 4. BookStoreProject: Angular, .NET ve MsSql kullanılmıştır.
 5. School-App-NTierArchitecture: Server tarafında çok katmanlı mimari (N-Tier Architecture) kullanılmıştır. Client tarafında ise Angular kullanılmıştır.
+6. Newsletter:  Yeni bir web uygulaması geliştirdim! Bu projede .NET çerçevesini kullanarak MVC (Model-View-Controller) mimarisini hayata geçirdim.
 
 <br>
 
