@@ -54,6 +54,7 @@ Eğer projelerime katkıda bulunmak isterseniz, lütfen aşağıdaki adımları 
 Benimle iletişime geçmek için aşağıdaki yolları kullanabilirsiniz:
 
 - <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /><a href="https://github.com/eliftubakorkmaz">@eliftubakorkmaz</a>
+
 - <img align="left" alt="LinkedIn" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" /><a href="https://www.linkedin.com/in/eliftubakorkmaz/">Elif Tuba Korkmaz</a>
 
 Teşekkür ederim ve hoş geldiniz!
